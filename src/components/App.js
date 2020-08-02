@@ -17,10 +17,10 @@ const App = () => {
                 <SideBar>
                 <h1>Side Bar</h1>
                 <ul>
-                    <li>orange</li>
-                    <li>orange</li>
-                    <li>orange</li>
-                    <li>orange</li>
+                    <li><a href='#'>orange</a></li>
+                    <li><a href='#'>orange</a></li>
+                    <li><a href='#'>orange</a></li>
+                    <li><a href='#'>orange</a></li>
                 </ul>
                 </SideBar>
                 <Main>
